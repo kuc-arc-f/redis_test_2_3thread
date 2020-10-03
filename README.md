@@ -6,7 +6,7 @@
 
  date    : 2020/10/02 
 
- update :
+ update : 2020/10/03 
 
 ***
 
@@ -19,6 +19,7 @@ Rust + redis , thread sample
 ***
 ### more
 
+https://note.com/knaka0209/n/n48aed439b899
 
 ***
 
